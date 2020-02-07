@@ -13,7 +13,7 @@ A quick and simple way to summarise your files, find duplicates and most importa
 
 # Problem 
 _Describe the problem your product solves._\
-It is very quick to accumulate a lot of files very quickly, even for small companies. Are all your files clean, what does clean even look like. Files received from known sources can still contain malleolus code. 
+It is very extremely easy to accumulate a lot of files very quickly, even for small companies. Are all your files clean, what does clean even look like. Files received from known sources can still contain malleolus code. 
 
 # Solution 
 _Describe how your product elegantly solves the problem._\
@@ -24,7 +24,8 @@ _A quote from a spokesperson in your company._\
 "Such an easy way to analyse multiple files and get some detailed analysis, great product." 
 
 # How to Get Started 
-_Describe how easy it is to get started._\To use this service navigate to this URL and drop your zip file of files in the upload area. Your output will be provided to the website within a few minutes.
+_Describe how easy it is to get started._\
+To use this service navigate to this URL and drop your zip file of files in the upload area. Your output will be provided to the website within a few minutes.
 
 # Customer Quote 
 _Provide a quote from a hypothetical customer that describes how they experienced the benefit._\
